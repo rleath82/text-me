@@ -1,0 +1,30 @@
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe\TextMe\TextMe\bin\Debug\netstandard2.0\TextMe.deps.json
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe\TextMe\TextMe\bin\Debug\netstandard2.0\TextMe.dll
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\TextMe.csprojAssemblyReference.cache
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\TextMe.csproj.CoreCompileInputs.cache
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\TextMe.AssemblyInfoInputs.cache
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\TextMe.AssemblyInfo.cs
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe\TextMe\TextMe\bin\Debug\netstandard2.0\TextMe.pdb
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\Pages\AddCustomerPage.xaml.g.cs
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\Pages\CustomersPage.xaml.g.cs
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\TextMe.dll
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\TextMe.pdb
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\Pages\EditMessagePage.xaml.g.cs
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\bin\Debug\netstandard2.0\TextMe.deps.json
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\bin\Debug\netstandard2.0\TextMe.dll
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\bin\Debug\netstandard2.0\TextMe.pdb
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\Pages\AddCustomerPage.xaml.g.cs
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\Pages\CustomersPage.xaml.g.cs
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\Pages\LoginPage.xaml.g.cs
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\Pages\NewUserPage.xaml.g.cs
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\Pages\SettingsPage.xaml.g.cs
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\TextMe.csproj.CoreCompileInputs.cache
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\TextMe.AssemblyInfoInputs.cache
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\TextMe.AssemblyInfo.cs
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\TextMe.dll
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\TextMe.pdb
+C:\Users\Robert Leatherman\Desktop\Xamarin\TextMe Backups\TextMe\TextMe\TextMe\obj\Debug\netstandard2.0\TextMe.csprojAssemblyReference.cache

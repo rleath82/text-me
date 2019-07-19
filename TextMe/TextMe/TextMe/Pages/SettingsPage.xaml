@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TextMe.Pages.SettingsPage"
+             Title="Settings">
+    <ContentPage.Content>
+        <StackLayout Margin="10,10,10,10">
+            <Label Text="Custom Text Message"/>
+            <Editor x:Name="messageEditor"
+                    Keyboard="Text"
+                    Placeholder="Enter your message"
+                    HeightRequest="100"/>
+            <Label Text="Account Phone Number"/>
+            <Entry x:Name="phoneEntry"
+                   Keyboard="Telephone"
+                   Placeholder="Ex: 5551234567"/>
+            <Label Text="Account SID"/>
+            <Entry x:Name="sidEntry"
+                   Placeholder="Account SID"/>
+            <Label Text="Auth Token"/>
+            <Entry x:Name="authTokenEntry"
+                   Placeholder="AUTH Token"
+                   IsPassword="True"/>
+            <Label Text="Password"/>
+            <Entry x:Name="passwordEntry"
+                   Placeholder="Password"
+                   IsPassword="True"/>
+            <Button x:Name="saveButton"
+                    Text="Save"
+                    Clicked="SaveButton_Clicked"/>
+            <Button x:Name="exitButton"
+                    Text="Exit"
+                    Clicked="ExitButton_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

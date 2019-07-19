@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Robert Leatherman\\Desktop\\Xamarin\\TextMe Backups\\TextMe\\TextMe\\TextMe.Android\\TextMe.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Robert Leatherman\\Desktop\\Xamarin\\TextMe Backups\\TextMe\\TextMe\\TextMe.Android\\TextMe.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Robert Leatherman\\Desktop\\Xamarin\\TextMe Backups\\TextMe\\TextMe\\TextMe.Android\\TextMe.Android.csproj",
+        "projectName": "TextMe.Android",
+        "projectPath": "C:\\Users\\Robert Leatherman\\Desktop\\Xamarin\\TextMe Backups\\TextMe\\TextMe\\TextMe.Android\\TextMe.Android.csproj",
+        "packagesPath": "C:\\Users\\Robert Leatherman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Robert Leatherman\\Desktop\\Xamarin\\TextMe Backups\\TextMe\\TextMe\\TextMe.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Robert Leatherman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {
+              "C:\\Users\\Robert Leatherman\\Desktop\\Xamarin\\TextMe Backups\\TextMe\\TextMe\\TextMe\\TextMe.csproj": {
+                "projectPath": "C:\\Users\\Robert Leatherman\\Desktop\\Xamarin\\TextMe Backups\\TextMe\\TextMe\\TextMe\\TextMe.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "Twilio": {
+              "target": "Package",
+              "version": "[5.28.3, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.CardView": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.MediaRouter": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.6.0.264807, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.5.231, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\Robert Leatherman\\Desktop\\Xamarin\\TextMe Backups\\TextMe\\TextMe\\TextMe\\TextMe.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Robert Leatherman\\Desktop\\Xamarin\\TextMe Backups\\TextMe\\TextMe\\TextMe\\TextMe.csproj",
+        "projectName": "TextMe",
+        "projectPath": "C:\\Users\\Robert Leatherman\\Desktop\\Xamarin\\TextMe Backups\\TextMe\\TextMe\\TextMe\\TextMe.csproj",
+        "packagesPath": "C:\\Users\\Robert Leatherman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Robert Leatherman\\Desktop\\Xamarin\\TextMe Backups\\TextMe\\TextMe\\TextMe\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Robert Leatherman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Twilio": {
+              "target": "Package",
+              "version": "[5.28.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.6.0.264807, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.5.231, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

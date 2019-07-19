@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TextMe.Pages.NewUserPage"
+             Title="New User/Change Password">
+    <ContentPage.Content>
+        <StackLayout Margin="10,10,10,10">
+            <Entry x:Name="systemPassword"
+                   Placeholder="System Password"
+                   IsPassword="True"/>
+            <Entry x:Name="newPasswordEntry"
+                   Placeholder="New Password"
+                   IsPassword="True"/>
+            <Entry x:Name="confirmPasswordEntry"
+                   Placeholder="Confirm Password"
+                   IsPassword="True"/>
+            <Button x:Name="savePasswordButton"
+                    Text="Save"
+                    Clicked="SavePasswordButton_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

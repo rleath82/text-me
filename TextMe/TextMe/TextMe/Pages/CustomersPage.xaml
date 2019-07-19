@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TextMe.Pages.CustomersPage"
+             Title="Customers">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="addButton" 
+                     Text="+"
+                     Clicked="AddButton_Clicked"/>
+        <ToolbarItem x:Name="addCustomer"
+                     Text="Add Customer"
+                     Clicked="AddCustomer_Clicked"
+                     Order="Secondary"/>
+        <ToolbarItem x:Name="settingsPage"
+                     Text="Settings"
+                     Clicked="SettingsPage_Clicked"
+                     Order="Secondary"/>
+    </ContentPage.ToolbarItems>
+    <ListView x:Name="customerListView"
+              ItemSelected="CustomerListView_ItemSelected">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <TextCell x:Name="custInfo"
+                          Text="{Binding Name}"
+                          Detail="{Binding OrderTime}"/>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>
